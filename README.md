@@ -34,3 +34,4 @@ your settings to capture the screen and set your gameover detector and retrain t
 
 if you set your own settings to capture the screen try to not capture t-rex capture what's in front of him and
 don't capture the highest flying bird
+
