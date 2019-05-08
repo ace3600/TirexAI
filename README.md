@@ -15,6 +15,9 @@ pip install opencv-python<br>
 pip install tensorflow<br>
 pip install keras<br>
 
+dowload this game<br>
+https://github.com/wayou/t-rex-runner
+
 to launch the AI you need to open tirex game put the window of chrome to the left most and start the game
 and click on another window so the game will be paused then launch test.py and wait for the script to detect the game
 after the game is detected just click on the chrome window and let the AI play
@@ -35,3 +38,6 @@ your settings to capture the screen and set your gameover detector and retrain t
 if you set your own settings to capture the screen try to not capture t-rex capture what's in front of him and
 don't capture the highest flying bird
 
+this is a Video shows how things works
+
+https://www.youtube.com/watch?v=iKmU1rZ8M0w
