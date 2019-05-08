@@ -9,11 +9,11 @@ pywin32, numpy, opencv, tensorflow, keras
 
 you can install them by running these commands on cmd or terminal
 
-pip install pywin32
-pip install numpy
-pip install opencv-python
-pip install tensorflow
-pip install keras
+pip install pywin32<br>
+pip install numpy<br>
+pip install opencv-python<br>
+pip install tensorflow<br>
+pip install keras<br>
 
 to launch the AI you need to open tirex game put the window of chrome to the left most and start the game
 and click on another window so the game will be paused then launch test.py and wait for the script to detect the game
